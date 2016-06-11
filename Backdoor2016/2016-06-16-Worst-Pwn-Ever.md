@@ -38,3 +38,5 @@ input(__builtins__.__import__('os').system("printenv"))
 
 which got us our flag!
 
+If you are interested in more content checkout bryceandress.github.io!
+
